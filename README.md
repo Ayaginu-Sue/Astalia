@@ -38,3 +38,8 @@
 - 任何人皆可自由傳送、分享此字型，或與其他軟體綑綁發行、銷售。
 - 任何人皆可自由改造、衍生此字型並公開。修改後的字型必須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 進行發佈，同時字型名稱不可使用原有字型的「保留名稱」。
 - 依照 [SIL OFL](https://scripts.sil.org/OFL) 規定，禁止單獨出售字型檔。
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Ayaginu-Sue/Astalia.svg)](https://starchart.cc/Ayaginu-Sue/Astalia)

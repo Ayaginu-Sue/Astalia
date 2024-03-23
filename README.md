@@ -4,7 +4,9 @@
 
 本字型基於 FONTWORKS 所製的開源專案 [Klee](https://github.com/fontworks-fonts/Klee)，並在一定程度上參照[霞鶩文楷繁體中文版](https://github.com/lxgw/LxgwWenkaiTC)與[芫荽](https://github.com/ButTaiwan/iansui)補充了部分常用字與簡體字。
 
-在最初的版本中，本字型基於寧靜之雨的字型 クレPro 製作，因此字重接近霞鶩文楷的 Bold 字重，在視覺上更粗重。但在後期的更新中，本字型已與 クレPro 有了巨大的分別，現今，Astalia 正在基於霞鶩文楷 TC Regular 重新製作字重更輕的字型。
+在最初的版本中，本字型基於寧靜之雨的字型 クレPro 製作，因此字重接近霞鶩文楷的 Bold 字重，在視覺上更粗重。但在後期的更新中，本字型已與 クレPro 有了巨大的分別。
+
+現今，Astalia 正在嘗試基於霞鶩文楷 TC Regular 重新製作字重更輕的字型。
 
 ## 字形調整原則
 

@@ -30,7 +30,7 @@
 ## 相關引用專案
 
 - [Klee](https://github.com/fontworks-fonts/Klee)
-- [霞鶩文楷繁體中文版](https://github.com/lxgw/LxgwWenkaiTC)
+- [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC)
 - [芫荽](https://github.com/ButTaiwan/iansui)
 - [Noto Sans](https://github.com/notofonts)
 

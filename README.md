@@ -4,9 +4,7 @@
 
 本字型專案基於 FONTWORKS 所製作的開源專案 [Klee](https://github.com/fontworks-fonts/Klee)，並在一定程度上參照[霞鶩文楷繁體中文版](https://github.com/lxgw/LxgwWenkaiTC)與[芫荽](https://github.com/ButTaiwan/iansui)補充了部分常用字與簡化字。
 
-在最初的版本中，本字型基於寧靜之雨之字型 クレPro 製作，因此字重接近霞鶩文楷的 Bold 字重，在視覺上更粗重。但在後期的更新中，本字型已與 クレPro 有了巨大的分別。
-
-~~現今，Astalia 正在嘗試基於霞鶩文楷 TC Regular 重新製作字重更輕的字型。~~（該計劃暫時被擱置了。）
+在最初的版本中，本字型基於寧靜之雨之字型 クレPro 製作，因此字重接近霞鶩文楷的 Bold 字重，在視覺上更粗重。但在之後的更新中，本字型已與 クレPro 有了巨大的分別。
 
 ## 字形調整原則
 
@@ -44,6 +42,11 @@
 - 任何人皆可自由改造、衍生本字型並公開。修改後的字型須同樣以 [SIL OFL](https://scripts.sil.org/OFL) 進行發佈，同時字型名稱不可使用原字型之「保留名稱」。
 - 依照 [SIL OFL](https://scripts.sil.org/OFL) 規定，禁止單獨出售字型檔。
 
+## 其他
+
+- 目前本字型專案並無中文正式命名，因此在絕大多數場合下應使用 Astalia 作為其唯一的名字。不過因此，也許會接受中文命名提案（
+
+- 一些被擱置的計劃：~~嘗試基於霞鶩文楷 TC Regular 重新製作字重更輕的字型。~~
 
 ## Stargazers over time
 

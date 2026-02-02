@@ -1,6 +1,6 @@
 # Astalia
 
-![](https://raw.githubusercontent.com/Ayaginu-Sue/Astalia/main/AstaliaCover.png)
+![](https://raw.githubusercontent.com/Ayaginu-Sue/Astalia/main/Astalia-Cover.png)
 
 ## 簡介
 

@@ -1,5 +1,7 @@
 # Astalia
 
+![](https://raw.githubusercontent.com/Ayaginu-Sue/Astalia/main/AstaliaCover.png)
+
 ## 簡介
 
 本字型專案基於 FONTWORKS 所製作的開源專案 [Klee](https://github.com/fontworks-fonts/Klee)，並在一定程度上參照[霞鶩文楷繁體中文版](https://github.com/lxgw/LxgwWenkaiTC)與[芫荽](https://github.com/ButTaiwan/iansui)補充了部分常用字與簡化字。

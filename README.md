@@ -52,6 +52,18 @@
 
 - 一些被擱置的計劃：~~嘗試基於霞鶩文楷 TC Regular 重新製作字重更輕的字型。~~
 
+## 本字型專案與其他相關專案的分別
+
+- 霞鶩文楷 / LXGW WenKai
+  本字型專案的字重相當於霞鶩文楷的 Medium 字重（原 Bold 字重）。
+  本字型專案的字形更多基於傳統字形與台灣字形風格，當出現統一字碼位的字形衝突時，通常以傳統字形為參照製作。
+  本字型專案的中文標點符號位置居中。
+- 霞鹜文楷 TC / LXGW WenKai TC
+  本字型專案的字形相較於霞鶩文楷 TC 更多參考了台灣之國字標準，
+- 芫荽 / iansui
+  本字型專案的字重較 iansui 專案的字重更重。
+  本字型專案的字形保留 Klee 字型風格較多，如垂直的點筆、單獨的提筆等，故而並不完全以台灣之國字標準為範本。
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/Ayaginu-Sue/Astalia.svg)](https://starchart.cc/Ayaginu-Sue/Astalia)
